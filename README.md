@@ -111,9 +111,6 @@
 </details>
 
 ---
-
-## 🛠️ Tech Stack (Visual)
-
 ## 🛠️ Tech Stack
 
 <p align="center">
