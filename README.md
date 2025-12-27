@@ -114,8 +114,26 @@
 
 ## 🛠️ Tech Stack (Visual)
 
+## 🛠️ Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,aws,gcp,docker,linux,fastapi,flask,git,pytorch,tensorflow,scikitlearn,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,sql,r" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,git" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,xgboost" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,streamlit,notebook" />
 </p>
 
 **ML / AI**
@@ -152,6 +170,3 @@ Are you:
 
 ---
 
-<p align="center">
-⭐ If this profile helped you, consider starring a repo!
-</p>
