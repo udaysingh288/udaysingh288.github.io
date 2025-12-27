@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About Me (TL;DR)
+## 🧠 About Me
 
 > I build **production-ready ML systems** — not just models.
 
@@ -27,42 +27,49 @@
 
 ---
 
-## 🏗️ Interactive Projects
+## 🏗️ Featured Projects
 
-<details>
-<summary><strong>📈 Production Forecasting & Batch Scoring Pipeline</strong></summary>
+<table>
+<tr>
+<td width="50%" align="center">
 
-**Tech:** Python · BigQuery · Airflow · MLflow · Docker  
+### 📈 Production Forecasting & Batch Scoring
 
-- End-to-end training + batch scoring pipelines  
-- Rolling backtests & scheduled retraining  
-- **10–15% metric improvement**, **30% less manual effort**
+<a href="https://your-live-demo-link.com">
+  <img src="https://raw.githubusercontent.com/kunwaruday/assets/main/forecasting-pipeline.png" width="100%" />
+</a>
 
-🔗 Repo: <i>Coming Soon</i>
+<p>
+<img src="https://skillicons.dev/icons?i=python,gcp,docker,airflow" />
+</p>
 
-</details>
+<p>
+<a href="https://github.com/kunwaruday/forecasting-batch-pipeline">📂 Repo</a> •
+<a href="https://your-live-demo-link.com">🚀 Live Demo</a>
+</p>
 
-<details>
-<summary><strong>⚡ Real-time Deep Learning Model Serving</strong></summary>
+</td>
 
-**Tech:** PyTorch · FastAPI · MLflow · Docker  
+<td width="50%" align="center">
 
-- TorchScript model served via FastAPI  
-- Strict Pydantic validation & versioned preprocessing  
-- Safe stage-based loading via MLflow Registry  
+### ⚡ Real-time Deep Learning Serving
 
-</details>
+<a href="https://your-live-demo-link.com">
+  <img src="https://raw.githubusercontent.com/kunwaruday/assets/main/fastapi-ml.png" width="100%" />
+</a>
 
-<details>
-<summary><strong>🤖 LLM-Powered Experimentation & RAG Framework</strong></summary>
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker" />
+</p>
 
-**Tech:** LangChain · FAISS/Chroma · GPT-4 · Airflow  
+<p>
+<a href="https://github.com/kunwaruday/torchscript-fastapi-mlflow">📂 Repo</a> •
+<a href="https://your-live-demo-link.com">🚀 Live Demo</a>
+</p>
 
-- Production-style RAG Q&A API  
-- Caching, rate-limiting & regression tests  
-- Automated index refresh & backfills  
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
