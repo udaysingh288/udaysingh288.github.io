@@ -1,156 +1,150 @@
+<!-- HERO -->
 <h1 align="center">Hi, I'm Kunwar Uday Singh 👋</h1>
-<h3 align="center">Machine Learning Engineer | Production ML • MLOps • LLM Systems</h3>
 
 <p align="center">
-📍 New York, USA  
-<br/>
-<a href="mailto:kunwarudaysingh.71@gmail.com">Email</a> • 
-<a href="https://www.linkedin.com/in/kunwaruday">LinkedIn</a> • 
-<a href="https://github.com/kunwaruday">GitHub</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Production+ML+%7C+MLOps+%7C+LLM+Systems;I+turn+models+into+reliable+systems" />
+</p>
+
+<p align="center">
+  <a href="mailto:kunwarudaysingh.71@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/kunwaruday"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/></a>
+  <a href="https://github.com/kunwaruday"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github"/></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me (TL;DR)
 
-I’m a **Machine Learning Engineer** with hands-on experience building **production-grade ML systems**—from forecasting and experimentation pipelines to real-time model serving and LLM-powered applications.
+> I build **production-ready ML systems** — not just models.
 
-I focus on:
-- Turning models into **reliable, scalable systems**
-- Strong **MLOps foundations** (versioning, monitoring, automation)
-- Clean, reproducible pipelines that teams can trust
+- Forecasting & optimization pipelines  
+- Real-time + batch ML systems  
+- LLM + RAG applications  
+- Strong MLOps foundations (Airflow, MLflow, Docker)
 
-Currently working at **WPP Media**, supporting data-driven decisions across large-scale business workflows.
-
----
-
-## 🧠 What I Work On
-
-- **Forecasting & Optimization Pipelines**
-- **Batch & Real-time ML Systems**
-- **Experimentation, Uplift & Causal Modeling**
-- **LLM + RAG Applications**
-- **MLOps & Model Lifecycle Automation**
+📍 **New York, USA**  
+💼 **Machine Learning Engineer @ WPP Media**
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Interactive Projects
 
-### 🔹 Production Forecasting & Batch Scoring Pipeline
-**Python • BigQuery • Airflow • MLflow • Docker**
+<details>
+<summary><strong>📈 Production Forecasting & Batch Scoring Pipeline</strong></summary>
 
-- Built end-to-end training and batch scoring pipelines
-- Implemented rolling backtests, scheduled retraining, and reproducible configs
-- Improved forecast metrics by **10–15%** and reduced manual refresh effort by **30%**
+**Tech:** Python · BigQuery · Airflow · MLflow · Docker  
 
----
+- End-to-end training + batch scoring pipelines  
+- Rolling backtests & scheduled retraining  
+- **10–15% metric improvement**, **30% less manual effort**
 
-### 🔹 Real-time Deep Learning Model Serving
-**PyTorch • FastAPI • MLflow • Docker**
+🔗 Repo: <i>Coming Soon</i>
 
-- Served a TorchScript PyTorch model via FastAPI with strict Pydantic validation
-- Ensured training–inference parity with versioned preprocessing artifacts
-- Used MLflow Model Registry for safe, stage-based model loading
+</details>
 
----
+<details>
+<summary><strong>⚡ Real-time Deep Learning Model Serving</strong></summary>
 
-### 🔹 Experimentation & Uplift Measurement Framework
-**FastAPI • LangChain • FAISS/Chroma • OpenAI GPT-4 • Airflow**
+**Tech:** PyTorch · FastAPI · MLflow · Docker  
 
-- Built a production-style **RAG Q&A API**
-- Added caching, rate limiting, and structured JSON outputs
-- Implemented regression tests to detect prompt/model drift
-- Automated index refresh and backfills via Airflow
+- TorchScript model served via FastAPI  
+- Strict Pydantic validation & versioned preprocessing  
+- Safe stage-based loading via MLflow Registry  
 
----
+</details>
 
-## 💼 Experience
+<details>
+<summary><strong>🤖 LLM-Powered Experimentation & RAG Framework</strong></summary>
 
-### **Machine Learning Engineer — WPP Media**
-📍 New York | Nov 2024 – Present
+**Tech:** LangChain · FAISS/Chroma · GPT-4 · Airflow  
 
-- Built forecasting & optimization pipelines in Python/BigQuery orchestrated via Airflow
-- Containerized workflows with Docker and tracked experiments with MLflow
-- Supported planning decisions across **$8M+ tracked volume**
-- Delivered **~20% outcome lift** (internal reporting)
-- Automated experimentation & holdout evaluation, cutting manual analysis time by **30%**
-- Built GPT-4 powered RAG assistant for governed metric retrieval
+- Production-style RAG Q&A API  
+- Caching, rate-limiting & regression tests  
+- Automated index refresh & backfills  
+
+</details>
 
 ---
 
-### **Data Scientist — IConsult**
-📍 Syracuse, NY | Nov 2023 – Oct 2024
+## 💼 Experience Timeline
 
-- Developed reusable training & scoring pipelines in Python/SQL
-- Improved forecast performance by **12%** through backtesting & metric standardization
-- Built uplift / causal scoring workflows for treatment impact estimation
-- Implemented automated anomaly detection & data-quality monitoring
+<details>
+<summary><strong>🏢 WPP Media — Machine Learning Engineer</strong></summary>
 
----
+📍 New York | Nov 2024 – Present  
 
-### **AI / ML Engineer — Intradiem**
-📍 Atlanta, GA | May 2023 – May 2024
+- Forecasting & optimization pipelines across **$8M+ volume**
+- **~20% outcome lift** (internal reporting)
+- Automated experimentation & QA checks (-30% manual effort)
+- Built GPT-4 RAG assistant for governed metrics
 
-- Built classification & forecasting models for workforce planning
-- Improved predictive performance by **22%**
-- Deployed production LLM + RAG chatbot reducing handle time by **15%**
-- Implemented end-to-end MLOps pipelines on AWS SageMaker
+</details>
 
----
+<details>
+<summary><strong>📊 IConsult — Data Scientist</strong></summary>
 
-## 🛠️ Tech Stack
+📍 Syracuse, NY | Nov 2023 – Oct 2024  
 
-**Languages**
-- Python, SQL, R
+- Reusable training & scoring pipelines  
+- **12% forecast improvement**
+- Uplift & causal modeling systems  
+- Automated anomaly detection
 
-**ML & Modeling**
-- Forecasting & Time Series
-- Classification & Regression
-- Uplift / Causal Modeling
-- Anomaly Detection
-- scikit-learn, XGBoost
+</details>
 
-**LLMs & GenAI**
-- RAG pipelines
-- LangChain
-- OpenAI GPT-4 APIs
-- Evaluation & guardrails
+<details>
+<summary><strong>🤖 Intradiem — AI / ML Engineer</strong></summary>
 
-**MLOps & Engineering**
-- Airflow, MLflow, Docker, Git
-- CI/CD, Experiment Tracking
-- Model Registry & Monitoring
+📍 Atlanta, GA | May 2023 – May 2024  
 
-**Cloud & Data**
-- GCP: BigQuery, Vertex AI  
-- AWS: S3, EC2, SageMaker, Lambda  
-- Snowflake, dbt
+- Workforce planning ML models (**22% lift**)  
+- Production LLM chatbot (**15% AHT reduction**)  
+- End-to-end MLOps on AWS SageMaker  
 
-**Apps & BI**
-- FastAPI, Streamlit
-- Tableau, Power BI
+</details>
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack (Visual)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kunwaruday&show_icons=true&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunwaruday&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=python,sql,r,aws,gcp,docker,fastapi,airflow,git,linux" />
+</p>
+
+**ML / AI**
+- Forecasting · Classification · Uplift · Anomaly Detection  
+- scikit-learn · XGBoost · PyTorch  
+
+**LLMs**
+- RAG · LangChain · GPT-4 · Evaluation & Guardrails  
+
+---
+
+## 📊 Live GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunwaruday&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunwaruday&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunwaruday&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let’s Build Something
 
 Are you:
-- Building ML systems that need to scale?
-- Looking for help with MLOps, LLMs, or production ML?
-- Interested in collaboration or just want to say **Hi 👋**?
+- Hiring for **ML Engineer / AI Engineer** roles?
+- Building an ML system that needs to scale?
+- Exploring LLMs or MLOps in production?
 
-📩 **Email is the fastest way to reach me**, and I’ll do my best to respond.
+📩 **Email is the fastest way to reach me**  
+💬 Always open to collaboration & conversations
 
 ---
 
-⭐ If you like my work, feel free to star a repo or reach out!
+<p align="center">
+⭐ If this profile helped you, consider starring a repo!
+</p>
