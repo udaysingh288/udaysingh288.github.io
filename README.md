@@ -145,13 +145,9 @@
 
 ## 📊 Live GitHub Stats
 
-<p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaysingh288" height="165"/>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysingh288&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysingh288" />
 </p>
 
 ---
