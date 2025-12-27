@@ -117,7 +117,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,r" />
+<img src="https://skillicons.dev/icons?i=python,r" />
 </p>
 
 <p align="center">
@@ -129,12 +129,10 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,xgboost" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,mongodb" />
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,streamlit,notebook" />
-</p>
+
 
 **ML / AI**
 - Forecasting · Classification · Uplift · Anomaly Detection  
