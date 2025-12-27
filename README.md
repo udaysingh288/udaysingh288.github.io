@@ -147,7 +147,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysingh288" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysingh288&theme=github-dark" />
 </p>
 
 ---
