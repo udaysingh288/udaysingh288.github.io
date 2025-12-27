@@ -123,12 +123,12 @@
 ## 📊 Live GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunwaruday&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunwaruday&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=udaysingh288&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaysingh288&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunwaruday&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysingh288&theme=tokyo-night" />
 </p>
 
 ---
