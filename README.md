@@ -115,7 +115,7 @@
 ## 🛠️ Tech Stack (Visual)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql,r,aws,gcp,docker,fastapi,airflow,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,r,aws,gcp,docker,linux,fastapi,flask,git,pytorch,tensorflow,scikitlearn,mongodb" />
 </p>
 
 **ML / AI**
