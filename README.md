@@ -33,7 +33,7 @@
 <tr>
 <td width="50%" align="center">
 
-### 📈 Production Forecasting & Batch Scoring
+📈 Production Forecasting & Batch Scoring
 
 <a href="https://your-live-demo-link.com">
   <img src="https://raw.githubusercontent.com/kunwaruday/assets/main/forecasting-pipeline.png" width="100%" />
@@ -52,7 +52,7 @@
 
 <td width="50%" align="center">
 
-### ⚡ Real-time Deep Learning Serving
+⚡ Real-time Deep Learning Serving
 
 <a href="https://your-live-demo-link.com">
   <img src="https://raw.githubusercontent.com/kunwaruday/assets/main/fastapi-ml.png" width="100%" />
